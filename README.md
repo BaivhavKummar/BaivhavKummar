@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="left">Hey 👋 What's up fellow techys? Welcome to my Corner!</h1>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=BaivhavKummar.BaivhavKummar&"  />
 <div style="display: flex; justify-content: center; ">
-    <img src="./474051880007201.gif" height="auto" width="900" />
+    <img src="./474051880007201.gif" height="auto" width="850" />
 </div>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Jersey+10&size=44&duration=4000&pause=300&center=true&width=550&height=111&lines=Hi+There!%F0%9F%91%8B;I%27m+Baivhav+....%F0%9F%98%81;I+love+exploring...everything%F0%9F%92%96" alt="I really am Baivhav" >
