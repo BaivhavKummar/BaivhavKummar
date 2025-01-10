@@ -18,35 +18,34 @@ Here are some ideas to get you started:
     <img src="./474051880007201.gif" height="auto" width="850" />
 </div>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Jersey+10&size=44&duration=4000&pause=300&center=true&width=550&height=111&lines=Hi+There!%F0%9F%91%8B;I%27m+Baivhav+....%F0%9F%98%81;I+love+exploring...everything%F0%9F%92%96" alt="I really am Baivhav" >
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Jersey+10&size=44&duration=3000&pause=300&center=true&width=550&height=111&lines=Hi+There!%F0%9F%91%8B;I%27m+Baivhav+....%F0%9F%98%81;I+love+exploring..." alt="I really am Baivhav" >
 
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <p align="left">I'm pursuing Bachelor of Engineering in Computer Science with a major in Artificial Intelligence and Machine Learning in association with IBM. My studies have provided me with a strong foundational understanding of a wide range of machine learning models, including those currently in trend. 
 <br><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4503d891-510a-4ebd-94c4-ef8958a2e8d4" width="20">Developed my own soil property recognition ML model and contributed to ionosphere and solar wind interaction research alongside my professor.<br><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4503d891-510a-4ebd-94c4-ef8958a2e8d4" width="20">Proficiency in CircuitLab circuit modeling, circuitry implementation, and electric waveform analysis. 
-<br><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4503d891-510a-4ebd-94c4-ef8958a2e8d4" width="20">Designing CGCAD using AutoCad and content writer for case study analysis on various topics an example of each of my projects can be found in the project section below.
+<br><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4503d891-510a-4ebd-94c4-ef8958a2e8d4" width="20">Designing CGCAD using AutoCad and content writer for case study analysis on various topics.
 </p>
 
 <h2 align="left">About me</h2>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
  <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="300" width="400" />
 <p align="left">
-🎓 A dedicated student of B.E. CSE (Hons.) AIML at Chandigarh University in association with IBM.<br>
-👨‍💻 Passionate about Artificial Intelligence, Machine Learning, and IoT.<br>
+🎓 A dedicated student of B.E. CSE (Hons.) AIML [association with IBM].<br>
+👨‍💻 Passionate about _Artificial Intelligence_, Machine Learning, IoT and _Hacking_.<br>
 🔭 Thriving on creating robust ML models, developing circuits, and leveraging Linux tools.<br>
 🌱 Currently exploring AR/VR development, ethical hacking, and web development.<br>
 🌟 Proficient in: Python, C/C++, CircuitLab, Linux tools, MySQL, and TensorFlow.<br>
-💡 Intermediate in HTML for web development and AR/VR.<br>
+💡 _Intermediate_ in HTML for web development and AR/VR.<br>
 🎨 Diploma holder in Arts from Pracheen Kala Kendra, Kolkata.<br>
 🚀 Open to innovative projects and collaboration opportunities!<br>
 🔧 Hobbyist in pentesting using Kali Linux and Burp Suite.<br>
 ✨ Creating bugs since i was in 8th std🤷‍♂️<br>📚🎯 Goals: To become mythical in ai and ml field and hackerrrr!!!!😎
-<br>🔭 I’m currently working on web and app development for an interactive resource mapping application connected to a website.
 <br>🌱 I’m currently learning java , javascript , LLM and NLP<br>
 👯 I’m looking to collaborate on any type of project based on environmental , biological and any other open source projects which uses tech to solve problems.<br>
 🤔 I’m looking for help with App development.<br>
 😄 Pronouns: He/Him/His<br>
-⚡ Fun fact: I love chocolates but do not like making projects about them (just eat themm).</p>
+⚡ Fun fact: I got introduced to github first by a git whom i met in an IT hub organized in my university.</p>
 
 
 ###
@@ -62,7 +61,7 @@ Here are some ideas to get you started:
 </div>
 
 ###
-### Programming and DBMS Languages :
+### Programming and DBMS _**Languages**_ :
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
 <div align="center"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" height="100">
