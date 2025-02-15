@@ -123,7 +123,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">✌️Contribution Graph</h2>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
-###
+
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaivhavKummar&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20in%20All%20Repo" style="width: 100%; max-width: 700px; height: auto;" alt="Activity Graph" />
 
 ###
