@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats-asv4.vercel.app?user=BaivhavKummar&theme=rising-sun&border_radius=8&card_width=503&card_height=170)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-hdog.vercel.app?user=BaivhavKummar&theme=rising-sun&border_radius=5&card_width=305&card_height=170)](https://git.io/streak-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=BaivhavKummar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stat"  />
 
